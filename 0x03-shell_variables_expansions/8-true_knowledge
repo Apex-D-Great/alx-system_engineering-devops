@@ -1,2 +1,3 @@
 #!/bin/bash
+TRUEKNOWLEDGE=89
 echo ((128 + $TRUEKNOWLEDGE))
